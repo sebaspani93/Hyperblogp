@@ -22,3 +22,8 @@ body {
     padding: 1%;
     background: rgb(235, 137, 197);
 }
+
+#dia21 {
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
