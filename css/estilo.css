@@ -16,6 +16,7 @@ body {
     font-family: 'Courier New', Courier, monospace;
 }
 #cabecera {
+    background: #333 url("../imagenes/icoweb.png");
     font-size: 35px;
     align-items: center;
     margin: 3%;
@@ -26,4 +27,8 @@ body {
 #dia21 {
     font-size: 25px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#cabecera #logo {
+    width: 2px;
 }
