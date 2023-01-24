@@ -27,3 +27,10 @@ body {
     font-size: 25px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
+#footer {
+    margin: 1%;
+    padding: 1%;
+    background: rgb(60, 10, 139);
+    color: rgb(241, 99, 234);
+}
