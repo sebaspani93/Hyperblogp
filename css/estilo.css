@@ -43,3 +43,9 @@ body {
     vertical-align: middle;
     width: 50px;
 }
+#footer {
+    margin: 1%;
+    padding: 1%;
+    background: rgb(60, 10, 139);
+    color: rgb(241, 99, 234);
+}
