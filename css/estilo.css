@@ -8,7 +8,7 @@ body {
     padding: 0;
 }
 
-#contenedor {
+#container {
     width: 70%;
     padding: 0;
     border-radius: 5% solid #333;
@@ -19,7 +19,7 @@ body {
     color: blue;
     font-family: 'Courier New', Courier, monospace;
 }
-#cabecera {
+#headboard {
     box-shadow: 0px 2px 20px 0px rgb(65, 65, 65);
     font-weight: bold;
     font-size: 35px;
@@ -39,7 +39,7 @@ body {
     padding: 1em;
 }
 
-#cabecera #logo {
+#headboard #logo {
     vertical-align: middle;
     width: 50px;
 }
