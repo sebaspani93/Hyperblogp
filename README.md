@@ -1,8 +1,7 @@
 ##**Bienvenidos a mi Hyperbolg** :tw-1f60e:
 
 *Este hyperblog lo he útilizado para ampliar y desarrollar mis conocimientos con Git y GitHub
-También hablaré un poco sobre mi para que se informen que tipo de persona soy
-*
+También hablaré un poco sobre mi para que se informen que tipo de persona soy*
 
 ## Sobre mi
 
