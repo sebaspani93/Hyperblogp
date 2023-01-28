@@ -1,8 +1,7 @@
-##**Bienvenidos a mi Hyperbolg** :tw-1f60e:
+## Bienvenidos a mi Hyperbolg :sunglasses:
 
 *Este hyperblog lo he útilizado para ampliar y desarrollar mis conocimientos con Git y GitHub
-También hablaré un poco sobre mi para que se informen que tipo de persona soy
-*
+También hablaré un poco sobre mi para que se informen que tipo de persona soy*
 
 ## Sobre mi
 
@@ -26,7 +25,6 @@ Conocimientos
 
 *Por muchas razones y necesidades, ella siempre será mi mayor motivación
 Mi persona favorita*
-![Sofia](https://github.com/sebaspani93/Hyperblogp/blob/cabecera/imagenes/"Sofia")
-![prueba](C:\Users\sebas\Documents\Git y GitHub\Prueba\imagenes\"sofia.svg")
+![Sofia](https://github.com/sebaspani93/Hyperblogp/blob/cabecera/imagenes/sofia.svg)
 
 Muchas gracias
