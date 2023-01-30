@@ -25,6 +25,7 @@ Conocimientos
 
 *Por muchas razones y necesidades, ella siempre será mi mayor motivación
 Mi persona favorita*
-![Sofia](https://github.com/sebaspani93/Hyperblogp/blob/cabecera/imagenes/sofia.svg)
+
+<a> <img src="https://github.com/sebaspani93/Hyperblogp/blob/cabecera/imagenes/sofia.svg" width=30%/> </a>
 
 Muchas gracias
