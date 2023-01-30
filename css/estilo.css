@@ -16,7 +16,7 @@ body {
 }
 
 #masterParagraph {
-    color: blue;
+    color: rgb(3, 3, 241);
     font-family: 'Courier New', Courier, monospace;
 }
 #headboard {
@@ -29,7 +29,7 @@ body {
     background: rgb(235, 137, 197);
 }
 
-#dia21 {
+#day21 {
     font-size: 25px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
