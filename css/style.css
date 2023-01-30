@@ -54,3 +54,12 @@ body {
 #sofia {
     width: 20%;
 }
+
+/*px: medida por pixeles
+em: Esta medida se acopla dependiendo el tamaño de la letra del navegador (font-zise), tamaño normal de 16px
+ex: Se basa en la medida aproximada de la "x", la mitad de ña medida de la letra (em)
+%: Esta unidad se basa en el tamaño del elemento padre
+rem: Es como em pero en vez de tomar como base el navegador, toma como base el documento HTML
+in: hace referencia a las pulgadas, que son iguales a 2.54cm
+cm: se refiere a los centímetros
+mm: hace referencia a los milímetros*/
